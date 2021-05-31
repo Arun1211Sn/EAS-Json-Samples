@@ -1,0 +1,89 @@
+[{
+  "name": "Machine 1a",
+  "issue": "Needs urgent Valve repair",
+  "state": "Critical"
+}, {
+  "name": "Machine 2b",
+  "issue": "Needs urgent Valve repair",
+  "state": "Critical"
+}, {
+  "name": "Machine 3c",
+  "issue": "Needs urgent Valve repair",
+  "state": "Critical"
+}, {
+  "name": "Machine 4d",
+  "issue": "Needs urgent Valve repair",
+  "state": "Critical"
+}, {
+  "name": "Machine 5e",
+  "issue": "Needs urgent Valve repair",
+  "state": "Critical"
+}, {
+  "name": "Machine 6f",
+  "issue": "Needs urgent Valve repair",
+  "state": "Critical"
+}, {
+  "name": "Machine 7g",
+  "issue": "Needs urgent Valve repair",
+  "state": "Critical"
+}, {
+  "name": "Machine 8h",
+  "issue": "Needs urgent Valve repair",
+  "state": "Critical"
+}, {
+  "name": "Machine 9i",
+  "issue": "Needs urgent Valve repair",
+  "state": "Critical"
+}, {
+  "name": "Machine 10j",
+  "issue": "Needs urgent Valve repair",
+  "state": "Critical"
+}, {
+  "name": "Machine 11k",
+  "issue": "Needs urgent Valve repair",
+  "state": "Critical"
+}, {
+  "name": "Machine 12l",
+  "issue": "Needs urgent Valve repair",
+  "state": "Critical"
+}, {
+  "name": "Machine 13m",
+  "issue": "Needs urgent Valve repair",
+  "state": "Critical"
+}, {
+  "name": "Machine 14n",
+  "issue": "Needs urgent Valve repair",
+  "state": "Critical"
+}, {
+  "name": "Machine 15o",
+  "issue": "Needs urgent Valve repair",
+  "state": "Critical"
+}, {
+  "name": "Machine 16p",
+  "issue": "Needs urgent Valve repair",
+  "state": "Critical"
+}, {
+  "name": "Machine 17q",
+  "issue": "Needs urgent Valve repair",
+  "state": "Critical"
+}, {
+  "name": "Machine 18r",
+  "issue": "Needs urgent Valve repair",
+  "state": "Critical"
+}, {
+  "name": "Machine 19s",
+  "issue": "Needs urgent Valve repair",
+  "state": "Critical"
+}, {
+  "name": "Machine 20t",
+  "issue": "Needs urgent Valve repair",
+  "state": "Critical"
+}, {
+  "name": "Machine 21u",
+  "issue": "Needs urgent Valve repair",
+  "state": "Critical"
+}, {
+  "name": "Machine 22v",
+  "issue": "Needs urgent Valve repair",
+  "state": "Critical"
+}]
